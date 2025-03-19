@@ -1,6 +1,6 @@
 > Willkommen zu Ihrem ersten Github-Projekt. Bitte folgen Sie den aufgelisteten Schritten mit dem Ziel, am Ende einen Kartenmanager zu veröffentlichen, der unterschiedliche Sortierverfahren mit Listen zur Auswahl bietet.
 
-### Schritt 0: Github-Zugangsdaten für BlueJ vorbereiten
+### Schritt %: Github-Zugangsdaten für BlueJ vorbereiten
 - Notieren Sie die URL dieser Internetseite. In BlueJ gilt sie als die Adresse zu Ihrem Repository.
 - Wählen Sie in den Einstellungen zu Ihrem Profil: 
   `Developer Settings -> Personal access tokens -> Token (classic) -> Generate new token (classic) -> Name und Zeitraum des Schlüssels angeben -> alles bei repo auswählen -> Generate Token`. 
